@@ -1,0 +1,18 @@
+baseurl = "http://nodeschool.io/"
+languageCode = "en-us"
+title = "Nodeschool Perth"
+theme = "hugo-base-theme"
+
+[params]
+  description = "Javascript in Isolation"
+  mainIcon = "/img/hugo.png"
+
+[[params.social]]
+    title = "twitter"
+    url = "https://twitter.com/SBootstrap"
+[[params.social]]
+    title = "github"
+    url = "https://github.com/nodeschool/perth"
+[[params.social]]
+    title = "linkedin"
+    url = ""
