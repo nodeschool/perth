@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nodeschool Perth</title>
+    <link>http://nodeschool.io/</link>
+    <description>Recent content on Nodeschool Perth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Sep 2015 10:02:07 +0800</lastBuildDate>
+    <atom:link href="http://nodeschool.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://nodeschool.io/post/first/</link>
+      <pubDate>Fri, 18 Sep 2015 10:02:07 +0800</pubDate>
+      
+      <guid>http://nodeschool.io/post/first/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Welcome!&lt;/h1&gt;
+
+&lt;p&gt;Welcome to Nodeschool Perth! This chapter is an attempt to bring together the community of javascript developers in the city! We will be holding regular workshops where you can meet fellow devs and l    earn from each other.&lt;/p&gt;
+
+&lt;h1 id=&#34;community:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Community&lt;/h1&gt;
+
+&lt;p&gt;The idea of Nodeschool is to be open to everyone and anyone. Even if you have a passing interest in this mysterious programming thing everyone is talking about, or you can invert a binary tree, you are welcome to join!&lt;/p&gt;
+
+&lt;h1 id=&#34;about-us:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;About Us&lt;/h1&gt;
+
+&lt;p&gt;NodeSchool Perth events are run by an enthusiastic group of volunteers. The workshops will be held regularly and will always be free. The chapter is run by volunteers.&lt;/p&gt;
+
+&lt;h1 id=&#34;events:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Events&lt;/h1&gt;
+
+&lt;p&gt;There will be regular workshops and slack channels where you can ask for assistance. The events offer a low-pressure environment to learn or practice Node and javascript.&lt;/p&gt;
+
+&lt;p&gt;svg(src=&amp;ldquo;./images/logo.svg&amp;rdquo;)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;next-event-tba:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Next event: TBA&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;setup:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Setup&lt;/h1&gt;
+
+&lt;h2 id=&#34;os-x:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;OS X&lt;/h2&gt;
+
+&lt;p&gt;Our recommended way to install Node, if you haven&amp;rsquo;t already, is by using &lt;code&gt;Homebrew&lt;/code&gt;. First, visit &lt;a href=&#34;http://brew.sh&#34;&gt;brew.sh&lt;/a&gt; and install Homebrew by following the instructions. Next, install Node by running the command&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;brew install node
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;to get the latest version.&lt;/p&gt;
+
+&lt;p&gt;Now, to get started with the first workshop, run the following in your terminal:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;npm install -g javascripting
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>home</title>
+      <link>http://nodeschool.io/home/</link>
+      <pubDate>Fri, 18 Sep 2015 10:01:01 +0800</pubDate>
+      
+      <guid>http://nodeschool.io/home/</guid>
+      <description>&lt;p&gt;JNFJ:ASN:FNKF&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
