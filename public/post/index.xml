@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Nodeschool Perth</title>
-    <link>http://nodeschool.io/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on Nodeschool Perth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Sep 2015 10:02:07 +0800</lastBuildDate>
-    <atom:link href="http://nodeschool.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://nodeschool.io/post/first/</link>
+      <link>http://localhost:1313/post/first/</link>
       <pubDate>Fri, 18 Sep 2015 10:02:07 +0800</pubDate>
       
-      <guid>http://nodeschool.io/post/first/</guid>
+      <guid>http://localhost:1313/post/first/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Welcome!&lt;/h1&gt;
@@ -32,8 +32,6 @@
 &lt;h1 id=&#34;events:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Events&lt;/h1&gt;
 
 &lt;p&gt;There will be regular workshops and slack channels where you can ask for assistance. The events offer a low-pressure environment to learn or practice Node and javascript.&lt;/p&gt;
-
-&lt;p&gt;svg(src=&amp;ldquo;./images/logo.svg&amp;rdquo;)&lt;/p&gt;
 
 &lt;hr /&gt;
 

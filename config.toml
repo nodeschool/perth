@@ -5,7 +5,7 @@ theme = "hugo-base-theme"
 
 [params]
   description = "Javascript in Isolation"
-  mainIcon = "/img/hugo.png"
+  mainIcon = "/images/logo.svg"
 
 [[params.social]]
     title = "twitter"

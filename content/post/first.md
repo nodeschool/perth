@@ -22,8 +22,6 @@ NodeSchool Perth events are run by an enthusiastic group of volunteers. The work
 
 There will be regular workshops and slack channels where you can ask for assistance. The events offer a low-pressure environment to learn or practice Node and javascript.
 
-svg(src="./images/logo.svg")
-
 ---
 
 # Next event: TBA
