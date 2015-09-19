@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Nodeschool Perth</title>
-    <link>http://localhost:1313/perth/post/</link>
+    <link>http://nodeschool.io/perth/post/</link>
     <description>Recent content in Posts on Nodeschool Perth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Sep 2015 10:02:07 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/perth/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://nodeschool.io/perth/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://localhost:1313/perth/post/first/</link>
+      <link>http://nodeschool.io/perth/post/first/</link>
       <pubDate>Fri, 18 Sep 2015 10:02:07 +0800</pubDate>
       
-      <guid>http://localhost:1313/perth/post/first/</guid>
+      <guid>http://nodeschool.io/perth/post/first/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Welcome!&lt;/h1&gt;
