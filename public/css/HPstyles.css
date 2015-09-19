@@ -33,7 +33,7 @@ body {
     width: 100%;
     min-height: 70%;
     position: relative;
-    /*background: url(../img/desk.jpg) no-repeat center center fixed;*/
+    background: url(../images/skyline-blur.jpg) no-repeat center center fixed;
     background-color: #303F9F;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -87,13 +87,11 @@ and (orientation : landscape) {
 }
 
 .siteTitle {
-    color: #212121;
-    background-color: black;
+    color: white;
 }
 
 .description {
-    color: #212121;
-    background-color: black;
+    color: white;
 }
 
 

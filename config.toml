@@ -5,11 +5,11 @@ theme = "hugo-base-theme"
 
 [params]
   description = "Javascript in Isolation"
-  mainIcon = "/images/logo.svg"
+  mainIcon = "/images/logo-white.svg"
 
 [[params.social]]
     title = "twitter"
-    url = "https://twitter.com/nodeschoolperth"
+    url = "https://twitter.com/NodeschoolPerth"
     icon = "announce"
 
 [[params.social]]
