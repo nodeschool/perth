@@ -24,6 +24,7 @@ body {
 }
 
 
+
 /* Full Page Image Header Area */
 
 .header {
@@ -32,17 +33,18 @@ body {
     width: 100%;
     min-height: 70%;
     position: relative;
-    background: url(../img/desk.jpg) no-repeat center center fixed;
+    /*background: url(../img/desk.jpg) no-repeat center center fixed;*/
+    background-color: #303F9F;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     z-index: 99999;
-    background-color: black;
+
 }
 
 .logo {
-    max-width: 35em;
+    max-width: 20em;
     width: 100%;
     padding: 2em;
 }
@@ -83,6 +85,17 @@ and (orientation : landscape) {
         background-color: black;
     }
 }
+
+.siteTitle {
+    color: #212121;
+    background-color: black;
+}
+
+.description {
+    color: #212121;
+    background-color: black;
+}
+
 
 .header .btn {
     margin: 10px;
@@ -191,17 +204,19 @@ i.callout-icon:hover {
 }
 
 #action {
-    background: url(../img/gray.png);
+    /*background: url(../img/gray.png);*/
+    background-color: #303F9F;
     padding: 30px 0px 40px;
     width: 100%;
 }
 #action pre {
     background-color: #545454;
-    color: #f9f2f4;
+
+    color: #FFFFFF;
 }
 #action pre:hover {
     background-color: #f9f2f4;
-    color: #545454;
+    color: #212121;
 }
 #action code {
     font-family: Lato, monospace;

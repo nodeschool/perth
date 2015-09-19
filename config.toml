@@ -1,4 +1,4 @@
-baseurl = "http://nodeschool.io/"
+baseurl = "http://nodeschool.io/perth"
 languageCode = "en-us"
 title = "Nodeschool Perth"
 theme = "hugo-base-theme"
@@ -9,10 +9,10 @@ theme = "hugo-base-theme"
 
 [[params.social]]
     title = "twitter"
-    url = "https://twitter.com/SBootstrap"
+    url = "https://twitter.com/nodeschoolperth"
+    icon = "announce"
+
 [[params.social]]
     title = "github"
     url = "https://github.com/nodeschool/perth"
-[[params.social]]
-    title = "linkedin"
-    url = ""
+    icon = "octocat"

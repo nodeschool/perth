@@ -2,7 +2,7 @@
 date = "2015-09-18T10:02:07+08:00"
 draft = false
 title = ""
-icon = "pacman"
+icon = "twitter"
 
 +++
 
@@ -27,19 +27,3 @@ There will be regular workshops and slack channels where you can ask for assista
 # Next event: TBA
 
 ---
-
-# Setup
-
-## OS X
- 
- Our recommended way to install Node, if you haven't already, is by using `Homebrew`. First, visit [brew.sh](http://brew.sh) and install Homebrew by following the instructions. Next, install Node by running the command
-```
-brew install node
-```
-to get the latest version.
-
-Now, to get started with the first workshop, run the following in your terminal:
-
-```
-npm install -g javascripting
-```

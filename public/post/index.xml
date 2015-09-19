@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Nodeschool Perth</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://localhost:1313/perth/post/</link>
     <description>Recent content in Posts on Nodeschool Perth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Sep 2015 10:02:07 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/perth/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://localhost:1313/post/first/</link>
+      <link>http://localhost:1313/perth/post/first/</link>
       <pubDate>Fri, 18 Sep 2015 10:02:07 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/first/</guid>
+      <guid>http://localhost:1313/perth/post/first/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Welcome!&lt;/h1&gt;
@@ -38,22 +38,6 @@
 &lt;h1 id=&#34;next-event-tba:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Next event: TBA&lt;/h1&gt;
 
 &lt;hr /&gt;
-
-&lt;h1 id=&#34;setup:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Setup&lt;/h1&gt;
-
-&lt;h2 id=&#34;os-x:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;OS X&lt;/h2&gt;
-
-&lt;p&gt;Our recommended way to install Node, if you haven&amp;rsquo;t already, is by using &lt;code&gt;Homebrew&lt;/code&gt;. First, visit &lt;a href=&#34;http://brew.sh&#34;&gt;brew.sh&lt;/a&gt; and install Homebrew by following the instructions. Next, install Node by running the command&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;brew install node
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;to get the latest version.&lt;/p&gt;
-
-&lt;p&gt;Now, to get started with the first workshop, run the following in your terminal:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;npm install -g javascripting
-&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
