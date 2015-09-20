@@ -25,6 +25,4 @@ There will be regular workshops and slack channels where you can ask for assista
 
 ---
 
-For updates, please subscribe to our [Twitter feed](https://twitter.com/NodeschoolPerth)
-
 To join the conversation, please file an issue on our [Github](https://github.com/nodeschool/perth)

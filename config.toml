@@ -8,11 +8,6 @@ theme = "hugo-base-theme"
   mainIcon = "/images/logo-white.svg"
 
 [[params.social]]
-    title = "twitter"
-    url = "https://twitter.com/NodeschoolPerth"
-    icon = "announce"
-
-[[params.social]]
     title = "github"
     url = "https://github.com/nodeschool/perth"
     icon = "octocat"
