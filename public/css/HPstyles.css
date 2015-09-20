@@ -33,7 +33,7 @@ body {
     width: 100%;
     min-height: 70%;
     position: relative;
-    background: url(../images/skyline.jpg) no-repeat center center fixed;
+    background: url(../images/skyline-blur-less.jpg) no-repeat center center fixed;
     background-color: #303F9F;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -63,7 +63,7 @@ and (orientation : portrait)
         height: 70%;
         width: 100%;
         position: relative;
-        background: url(../images/skyline.jpg) no-repeat center center fixed;
+        background: url(../images/skyline-blur-less.jpg) no-repeat center center fixed;
         z-index: 99999;
         background-color: black;    
         -webkit-background-size: cover;
@@ -83,7 +83,7 @@ and (orientation : landscape) {
         height: 70%;
         width: 100%;
         position: relative;
-        background: url(../images/skyline.jpg) no-repeat center center fixed;
+        background: url(../images/skyline-blur-less.jpg) no-repeat center center fixed;
         background-size: 100% 100%;
         z-index: 99999;
         background-color: black;
