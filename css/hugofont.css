@@ -32,3 +32,6 @@
 .icon-announce:before {
 	content: "\4K";
 }
+.icon-arrow-down:before {
+	content: "\56";
+}

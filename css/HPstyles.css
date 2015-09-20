@@ -63,10 +63,14 @@ and (orientation : portrait)
         height: 70%;
         width: 100%;
         position: relative;
-        background: url(../img/desk-mini.jpg) no-repeat;
-        background-size: 100% 100%;
+        background: url(../images/skyline-blur.jpg) no-repeat center center fixed;
         z-index: 99999;
-        background-color: black;
+        background-color: black;    
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        min-height: 180px/*demo purposes*/
     }
 }
 
@@ -79,7 +83,7 @@ and (orientation : landscape) {
         height: 70%;
         width: 100%;
         position: relative;
-        background: url(../img/desk-long.jpg) no-repeat;
+        background: url(../images/skyline-blur.jpg) no-repeat center center fixed;
         background-size: 100% 100%;
         z-index: 99999;
         background-color: black;
@@ -88,6 +92,7 @@ and (orientation : landscape) {
 
 .siteTitle {
     color: white;
+    font-size: 20pt;
 }
 
 .description {
@@ -103,7 +108,7 @@ and (orientation : landscape) {
     z-index: 99999;
     position: relative;
     background: rgb(255, 255, 255);
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    /*box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);*/
 }
 
 .header .btn {
@@ -203,14 +208,15 @@ i.callout-icon:hover {
 
 #action {
     /*background: url(../img/gray.png);*/
-    background-color: #303F9F;
+    background-color: rgba(96, 210, 211, 1);
+    /*background-color: #303F9F;*/
     padding: 30px 0px 40px;
     width: 100%;
 }
 #action pre {
-    background-color: #545454;
+    background-color: white;
 
-    color: #FFFFFF;
+    color: black;
 }
 #action pre:hover {
     background-color: #f9f2f4;
