@@ -63,7 +63,7 @@ and (orientation : portrait)
         height: 70%;
         width: 100%;
         position: relative;
-        background: url(../images/skyline-blur-less.jpg) no-repeat center center fixed;
+        background: url(../images/skyline-blur-less.jpg) no-repeat;
         z-index: 99999;
         background-color: black;    
         -webkit-background-size: cover;
@@ -83,7 +83,7 @@ and (orientation : landscape) {
         height: 70%;
         width: 100%;
         position: relative;
-        background: url(../images/skyline-blur-less.jpg) no-repeat center center fixed;
+        background: url(../images/skyline-blur-less.jpg) no-repeat;
         background-size: 100% 100%;
         z-index: 99999;
         background-color: black;
