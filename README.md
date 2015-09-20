@@ -12,11 +12,26 @@ http://nodeschool.io
 
 # Spinup Instructions
 
-TODO
+```
+brew install hugo
+git@github.com:nodeschool/perth.git
+cd perth
+hugo server -w
+```
+
+Go to [localhost:1313]()
 
 # Deployment to gh-pages branch
 
-TODO
+```
+hugo
+git add .
+git commit -m 'commit message'
+git push origin [branch]
+git subtree push --prefix public origin gh-pages
+```
+
+Go to [nodeschool.io/perth]()
 
 # Contact
 

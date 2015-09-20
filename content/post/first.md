@@ -1,12 +1,9 @@
 +++
 date = "2015-09-18T10:02:07+08:00"
 draft = false
-title = ""
-icon = "twitter"
+title = "Welcome!"
 
 +++
-
-# Welcome!
 
 Welcome to Nodeschool Perth! This chapter is an attempt to bring together the community of javascript developers in the city! We will be holding regular workshops where you can meet fellow devs and l    earn from each other.
 
@@ -27,3 +24,7 @@ There will be regular workshops and slack channels where you can ask for assista
 # Next event: TBA
 
 ---
+
+For updates, please subscribe to our [Twitter feed](https://twitter.com/NodeschoolPerth)
+
+To join the conversation, please file an issue on our [Github](https://github.com/nodeschool/perth)
