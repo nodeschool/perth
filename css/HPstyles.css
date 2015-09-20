@@ -91,6 +91,7 @@ and (orientation : landscape) {
 }
 
 .siteTitle {
+    -webkit-text-stroke: 1px black;
     color: white;
     font-size: 24pt;
     text-shadow: 
@@ -102,6 +103,7 @@ and (orientation : landscape) {
 }
 
 .description {
+    -webkit-text-stroke: 1px black;
     color: white;
     text-shadow: 
     -1px -1px 0 #000,
