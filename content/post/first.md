@@ -13,7 +13,7 @@ The idea of Nodeschool is to be open to everyone and anyone. Even if you have a 
 
 # About Us
 
-NodeSchool Perth events are run by an enthusiastic group of volunteers. The workshops will be held regularly and will always be free. The chapter is run by volunteers.
+NodeSchool Perth events are run by an enthusiastic group of volunteers. The workshops will be held regularly and will always be free. 
 
 # Events
 
