@@ -1,10 +1,8 @@
 baseurl = "http://nodeschool.io/perth/"
 languageCode = "en-us"
-title = "Nodeschool Perth"
 theme = "hugo-base-theme"
 
 [params]
-  description = "Javascript in Isolation"
   mainIcon = "/images/logo-white.svg"
 
 [[params.social]]

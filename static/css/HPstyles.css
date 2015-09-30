@@ -91,27 +91,16 @@ and (orientation : landscape) {
 }
 
 .siteTitle {
-    -webkit-text-stroke: 1px black;
-    color: white;
-    font-size: 24pt;
-    text-shadow: 
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000,
-    ;
+    background: url('../images/main-title.png') no-repeat center/contain;
+    margin: 0 15% 1.5em 15%;
+    height: 28px; /* should match height of background image */
 }
 
 .description {
-    color: white;
-    font-size: 12pt;
-    text-shadow: 
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;
+    background: url('../images/main-subtitle.png') no-repeat center/contain;
+    margin: 0 30% 0 30%;
+    height: 18px; /* should match height of background image */
 }
-
 
 .header .btn {
     margin: 10px;
