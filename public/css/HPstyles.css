@@ -91,16 +91,21 @@ and (orientation : landscape) {
 }
 
 .siteTitle {
-    background: url('../images/main-title.png') no-repeat center/contain;
-    margin: 0 15% 1.5em 15%;
-    height: 28px; /* should match height of background image */
+    color: white;
+    font-size: 24pt;
+    text-shadow: 0 0 6px #000,
+                 0 0 4px #000,
+                 0 0 2px #000;
 }
 
 .description {
-    background: url('../images/main-subtitle.png') no-repeat center/contain;
-    margin: 0 30% 0 30%;
-    height: 18px; /* should match height of background image */
+    color: white;
+    font-size: 12pt;
+    text-shadow: 0 0 6px #000,
+                 0 0 4px #000,
+                 0 0 2px #000;
 }
+
 
 .header .btn {
     margin: 10px;
