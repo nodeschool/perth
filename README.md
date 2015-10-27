@@ -1,5 +1,7 @@
 # NodeSchool Perth
 
+[![Join the chat at https://gitter.im/nodeschool/perth](https://badges.gitter.im/join chat.svg)](https://gitter.im/nodeschool/perth)
+
 This is the repository for the Perth (Western Australia) chapter of NodeSchool for organising learning events.
 
 # Information
