@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nodeschool Perth</title>
-    <link>http://nodeschool.io/perth/</link>
+    <link>https://nodeschool.io/perth/index.xml</link>
     <description>Recent content on Nodeschool Perth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Sep 2015 10:02:07 +0800</lastBuildDate>
-    <atom:link href="http://nodeschool.io/perth/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nodeschool.io/perth/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome!</title>
-      <link>http://nodeschool.io/perth/post/first/</link>
+      <link>https://nodeschool.io/perth/post/first/</link>
       <pubDate>Fri, 18 Sep 2015 10:02:07 +0800</pubDate>
       
-      <guid>http://nodeschool.io/perth/post/first/</guid>
+      <guid>https://nodeschool.io/perth/post/first/</guid>
       <description>
 
 &lt;p&gt;Welcome to Nodeschool Perth! This chapter is an attempt to bring together the community of javascript developers in the city! We will be holding regular workshops where you can meet fellow devs and l    earn from each other.&lt;/p&gt;
 
-&lt;h1 id=&#34;community:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Community&lt;/h1&gt;
+&lt;h1 id=&#34;community&#34;&gt;Community&lt;/h1&gt;
 
 &lt;p&gt;The idea of Nodeschool is to be open to everyone and anyone. Even if you have a passing interest in this mysterious programming thing everyone is talking about, or you can invert a binary tree, you are welcome to join!&lt;/p&gt;
 
-&lt;h1 id=&#34;about-us:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;About Us&lt;/h1&gt;
+&lt;h1 id=&#34;about-us&#34;&gt;About Us&lt;/h1&gt;
 
 &lt;p&gt;NodeSchool Perth events are run by an enthusiastic group of volunteers. The workshops will be held regularly and will always be free.&lt;/p&gt;
 
-&lt;h1 id=&#34;events:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Events&lt;/h1&gt;
+&lt;h1 id=&#34;events&#34;&gt;Events&lt;/h1&gt;
 
 &lt;p&gt;There will be regular workshops and slack channels where you can ask for assistance. The events offer a low-pressure environment to learn or practice Node and javascript.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;next-event-tba:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Next event: TBA&lt;/h1&gt;
+&lt;h1 id=&#34;next-event-tba&#34;&gt;Next event: TBA&lt;/h1&gt;
 
 &lt;hr /&gt;
 
